@@ -4,7 +4,8 @@ git branch 分支名
 例：git branch hot-fix
 切换分支命令：
 git chechout 分支名
-
+分支合并命令：
+git merge 需要合并的分支名
 
 
 
