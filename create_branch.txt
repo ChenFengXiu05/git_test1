@@ -12,4 +12,5 @@ git chechout 分支名
 
 hot-fix 分支修改标记
 hot-fix 分支第二次修改标记
-
+分支合并冲突：
+hot-fix修改部分
