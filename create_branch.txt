@@ -11,3 +11,5 @@ git chechout 分支名
 查看分支命令：git branch -v
 
 hot-fix 分支修改标记
+hot-fix 分支第二次修改标记
+
