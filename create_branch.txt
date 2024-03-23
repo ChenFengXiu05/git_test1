@@ -1,0 +1,13 @@
+git分支命令
+创建命令：
+git branch 分支名
+例：git branch hot-fix
+切换分支命令：
+git chechout 分支名
+
+
+
+
+查看分支命令：git branch -v
+
+hot-fix 分支修改标记
