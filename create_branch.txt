@@ -13,4 +13,5 @@ git merge 需要合并的分支名
 
 hot-fix 分支修改标记
 hot-fix 分支第二次修改标记
-
+合并代码冲突：
+master修改部分
